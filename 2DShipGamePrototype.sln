@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_2DShipGamePrototype", "2DShipGamePrototype\_2DShipGamePrototype\_2DShipGamePrototype.csproj", "{CB4E32E7-1394-4C5E-93F1-AF5D9AAAEFD3}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "_2DShipGamePrototypeContent", "2DShipGamePrototype\_2DShipGamePrototypeContent\_2DShipGamePrototypeContent.contentproj", "{6E7D04B1-16DB-4DA1-BFC2-86025B437F30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB4E32E7-1394-4C5E-93F1-AF5D9AAAEFD3}.Debug|x86.ActiveCfg = Debug|x86
+		{CB4E32E7-1394-4C5E-93F1-AF5D9AAAEFD3}.Debug|x86.Build.0 = Debug|x86
+		{CB4E32E7-1394-4C5E-93F1-AF5D9AAAEFD3}.Release|x86.ActiveCfg = Release|x86
+		{CB4E32E7-1394-4C5E-93F1-AF5D9AAAEFD3}.Release|x86.Build.0 = Release|x86
+		{6E7D04B1-16DB-4DA1-BFC2-86025B437F30}.Debug|x86.ActiveCfg = Debug|x86
+		{6E7D04B1-16DB-4DA1-BFC2-86025B437F30}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
