@@ -16,11 +16,14 @@ namespace _2DShipGamePrototype
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
-        KeyboardState keyboardState; 
+        KeyboardState keyboardState;
+
+        public TextureManager textureManager; 
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
+            IsMouseVisible = true; 
         }
 
         protected override void Initialize()
@@ -35,6 +38,8 @@ namespace _2DShipGamePrototype
         {
             
             spriteBatch = new SpriteBatch(GraphicsDevice);
+            textureManager = new TextureManager(Content); 
+
 
             
         }

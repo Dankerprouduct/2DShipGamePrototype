@@ -32,7 +32,7 @@ namespace _2DShipGamePrototype
         {
             MouseMovement();
             Movement(); 
-               
+            
         }
 
         private void Movement()
