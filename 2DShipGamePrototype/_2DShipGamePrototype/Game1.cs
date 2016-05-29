@@ -18,6 +18,7 @@ namespace _2DShipGamePrototype
         SpriteBatch spriteBatch;
         KeyboardState keyboardState;
 
+        Ship ship; 
         public TextureManager textureManager; 
         public Game1()
         {
@@ -38,10 +39,10 @@ namespace _2DShipGamePrototype
         {
             
             spriteBatch = new SpriteBatch(GraphicsDevice);
-            textureManager = new TextureManager(Content); 
+            textureManager = new TextureManager(Content);
 
-
-            
+            ship = new Ship(new ShipGameLibrary.Ship(), this);
+            ship.LoadContent(Content); 
         }
 
 
@@ -70,6 +71,9 @@ namespace _2DShipGamePrototype
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
+            spriteBatch.Begin();
+            ship.Draw(spriteBatch); 
+            spriteBatch.End();
 
 
             base.Draw(gameTime);

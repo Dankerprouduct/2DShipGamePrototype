@@ -10,6 +10,15 @@
       <Output>C:\Users\David\Documents\Visual Studio 2015\Projects\2DShipGamePrototype\2DShipGamePrototype\_2DShipGamePrototype\bin\x86\Debug\Content\Xml\Tile.xnb</Output>
       <Time>2016-05-21T09:27:06.447852-04:00</Time>
     </Item>
+    <Item>
+      <Source>spritesheet.png</Source>
+      <Name>spritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2015\Projects\2DShipGamePrototype\2DShipGamePrototype\_2DShipGamePrototype\bin\x86\Debug\Content\spritesheet.xnb</Output>
+      <Time>2016-05-21T09:49:36.7154912-04:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <ContentProjectGUID>{6E7D04B1-16DB-4DA1-BFC2-86025B437F30}</ContentProjectGUID>

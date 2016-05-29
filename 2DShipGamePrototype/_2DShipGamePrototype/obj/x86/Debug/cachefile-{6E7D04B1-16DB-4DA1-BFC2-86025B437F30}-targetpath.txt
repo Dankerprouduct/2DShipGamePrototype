@@ -1,2 +1,3 @@
 Content\Xml\Tile.xnb
+Content\spritesheet.xnb
 Content\Xml\Tile.xml

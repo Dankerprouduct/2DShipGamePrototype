@@ -19,3 +19,10 @@ C:\Users\David\Documents\Visual Studio 2015\Projects\2DShipGamePrototype\2DShipG
 C:\Users\David\Documents\Visual Studio 2015\Projects\2DShipGamePrototype\2DShipGamePrototype\_2DShipGamePrototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\David\Documents\Visual Studio 2015\Projects\2DShipGamePrototype\2DShipGamePrototype\_2DShipGamePrototype\obj\x86\Debug\_2DShipGamePrototype.exe
 C:\Users\David\Documents\Visual Studio 2015\Projects\2DShipGamePrototype\2DShipGamePrototype\_2DShipGamePrototype\obj\x86\Debug\_2DShipGamePrototype.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\2DShipGamePrototype\2DShipGamePrototype\_2DShipGamePrototype\bin\x86\Debug\Modules\Blank.txt
+C:\Users\David\Documents\Visual Studio 2015\Projects\2DShipGamePrototype\2DShipGamePrototype\_2DShipGamePrototype\bin\x86\Debug\Modules\EngineRoom 2.txt
+C:\Users\David\Documents\Visual Studio 2015\Projects\2DShipGamePrototype\2DShipGamePrototype\_2DShipGamePrototype\bin\x86\Debug\Modules\EngineRoom1.txt
+C:\Users\David\Documents\Visual Studio 2015\Projects\2DShipGamePrototype\2DShipGamePrototype\_2DShipGamePrototype\bin\x86\Debug\Modules\Hallway1.txt
+C:\Users\David\Documents\Visual Studio 2015\Projects\2DShipGamePrototype\2DShipGamePrototype\_2DShipGamePrototype\bin\x86\Debug\Modules\Module1.txt
+C:\Users\David\Documents\Visual Studio 2015\Projects\2DShipGamePrototype\2DShipGamePrototype\_2DShipGamePrototype\bin\x86\Debug\Modules\Module2.txt
+C:\Users\David\Documents\Visual Studio 2015\Projects\2DShipGamePrototype\2DShipGamePrototype\_2DShipGamePrototype\bin\x86\Debug\Content\spritesheet.xnb
